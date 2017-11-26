@@ -1,0 +1,1 @@
+class Sulfuras extends Item {}
